@@ -1,2 +1,2 @@
 # WebLearners
-For Teacher Website Design and Development
+For project and learning website/apps
